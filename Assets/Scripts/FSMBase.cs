@@ -46,4 +46,14 @@ public class FSMBase : MonoBehaviour
         state = newState;
         a.SetInteger("state", (int)state);
     }
+
+    public bool IsDead()
+    {
+        return state == CharacterState.Dead;
+    }
+
+    public bool RemainTime(float ratio)
+    {
+        return (a.GetCurrentAnimatorStateInfo(0).normalizedTime % 1.0f > ratio);
+    }
 }
