@@ -14,11 +14,11 @@ public class PlayerFSM : FSMBase
     public LayerMask layerMask;
     public float attackRange = 1.5f;
     public float attack = 100.0f;
-    public int maxHP = 100;
-    public int currentHP = 100;
-    public int exp = 0;
-    public int gold = 0;
-    public int level = 1;
+//    public int maxHP = 100;
+//    public int currentHP = 100;
+//    public int exp = 0;
+//    public int gold = 0;
+//    public int level = 1;
 
 
     public Renderer myRenderer;
@@ -186,12 +186,12 @@ public class PlayerFSM : FSMBase
 
     public void ProcessDamage(float damage)
     {
-        currentHP -= (int)damage;
+        DataManager.Instance.currentHP -= (int)damage;
 
-        if (currentHP <= 0)
+        if (DataManager.Instance.currentHP <= 0)
         {
             SetState(CharacterState.Dead);
-            currentHP = 0;
+            DataManager.Instance.currentHP = 0;
         }
     }
 
@@ -261,7 +261,7 @@ public class PlayerFSM : FSMBase
 
     public void GainExp(int gainExp)
     {
-        exp += gainExp;
+        DataManager.Instance.exp += gainExp;
         //ServerCall.GainExP();
 
         CheckLevel();
@@ -269,13 +269,13 @@ public class PlayerFSM : FSMBase
 
     public void GainGold(int gainGold)
     {
-        gold += gainGold;
+        DataManager.Instance.gold += gainGold;
         //ServerCall.GainGold();
     }
 
     public void CheckLevel()
     {
-        if (exp % 30 == 0)
+        if (DataManager.Instance.exp % 30 == 0)
         {
             StartEffect("Levelup");
         }
