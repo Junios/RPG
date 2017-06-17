@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityEngine.UI;
 
 public class MonsterFSM : FSMBase
 {
@@ -26,6 +27,9 @@ public class MonsterFSM : FSMBase
 
     public Camera sight;
 
+    public Image hpBar;
+
+
     public override void Awake()
     {
         base.Awake();
@@ -40,6 +44,8 @@ public class MonsterFSM : FSMBase
         playerFSM = player.GetComponent<PlayerFSM>();
 
         sight = GetComponentInChildren<Camera>();
+
+        hpBar = GetComponentInChildren<Image>();
     }
 
     public bool IsDetectPlayer()
@@ -53,6 +59,7 @@ public class MonsterFSM : FSMBase
     {
         SetState(CharacterState.Idle);
         currentHP = maxHP;
+        hpBar.fillAmount = 1.0f;
         GetComponent<CharacterController>().enabled = true;
         agent.enabled = true;
         transform.position = waypoints[0].position;
@@ -196,10 +203,13 @@ public class MonsterFSM : FSMBase
     {
         currentHP -= (int)damage;
 
+        hpBar.fillAmount = (float)currentHP / (float)maxHP;
+
         if (currentHP <= 0)
         {
             SetState(CharacterState.Dead);
             currentHP = 0;
+            hpBar.fillAmount = 0;
         }
         else
         {

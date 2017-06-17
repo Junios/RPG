@@ -2,18 +2,18 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityEngine.EventSystems;
 
 public class PlayerFSM : FSMBase
 {
     public GameObject movePoint;
     public GameObject attackPoint;
-
-    public float moveSpeed = 4.0f;
-    public float turnSpeed = 360.0f;
-
     public LayerMask layerMask;
-    public float attackRange = 1.5f;
-    public float attack = 100.0f;
+
+//    public float moveSpeed = 4.0f;
+//    public float turnSpeed = 360.0f;
+//    public float attackRange = 1.5f;
+//    public float attack = 100.0f;
 //    public int maxHP = 100;
 //    public int currentHP = 100;
 //    public int exp = 0;
@@ -35,8 +35,8 @@ public class PlayerFSM : FSMBase
         movePoint.SetActive(false);
         attackPoint = GameObject.Find("AttackPoint");
         attackPoint.SetActive(false);
-        agent.speed = moveSpeed;
-        agent.angularSpeed = turnSpeed;
+        agent.speed = DataManager.Instance.GetCurrentPlayerData().moveSpeed;
+        agent.angularSpeed = DataManager.Instance.GetCurrentPlayerData().turnSpeed;
         agent.acceleration = 2000.0f;
 
         myRenderer = GetComponentInChildren<Renderer>();
@@ -48,17 +48,20 @@ public class PlayerFSM : FSMBase
     public override void OnEnable()
     {
         base.OnEnable();
+        DataManager.Instance.maxHP = DataManager.Instance.GetCurrentPlayerData().maxHP;
+        DataManager.Instance.currentHP = DataManager.Instance.GetCurrentPlayerData().maxHP;
     }
 
     void Update()
     {
         if (state == CharacterState.Skill1 ||
-            IsDead())
+            IsDead() || EventSystem.current.IsPointerOverGameObject() ||
+            EventSystem.current.IsPointerOverGameObject(0) )
         {
             return;
         }
 
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space)) //for Test
         {
             SetState(CharacterState.Skill1);
         }
@@ -90,7 +93,7 @@ public class PlayerFSM : FSMBase
                     movePoint.SetActive(false);
                     agent.SetDestination(attackPoint.transform.position);
                     SetState(CharacterState.AttackRun);
-                    agent.stoppingDistance = attackRange;
+                    agent.stoppingDistance = DataManager.Instance.GetCurrentPlayerData().attackRange;
                     monsterFSM = hitInfo.transform.GetComponent<MonsterFSM>();
                 }
             }
@@ -141,7 +144,7 @@ public class PlayerFSM : FSMBase
 
             agent.SetDestination(attackPoint.transform.position);
 
-            if (agent.remainingDistance <= attackRange)
+            if (agent.remainingDistance <= DataManager.Instance.GetCurrentPlayerData().attackRange)
             {
                 SetState(CharacterState.Attack);
             }
@@ -161,7 +164,8 @@ public class PlayerFSM : FSMBase
             MoveUtil.RotateBurst(transform, attackPoint.transform);
 
             if (Vector3.Distance(transform.position,
-                attackPoint.transform.position) > attackRange && RemainTime(0.7f))
+                attackPoint.transform.position) > DataManager.Instance.GetCurrentPlayerData().attackRange
+                   && RemainTime(0.7f))
             {
                 SetState(CharacterState.AttackRun);
                 break;
@@ -181,7 +185,7 @@ public class PlayerFSM : FSMBase
 
     public void OnPlayerAttack()
     {
-        monsterFSM.ProcessDamage(attack);
+        monsterFSM.ProcessDamage(DataManager.Instance.GetCurrentPlayerData().baseAttack);
     }
 
     public void ProcessDamage(float damage)
@@ -279,5 +283,12 @@ public class PlayerFSM : FSMBase
         {
             StartEffect("Levelup");
         }
+    }
+
+
+    [ContextMenu("HP 채우기")]
+    void FullHP()
+    {
+        DataManager.Instance.currentHP = DataManager.Instance.maxHP;
     }
 }

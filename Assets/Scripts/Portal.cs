@@ -15,7 +15,10 @@ public class Portal : MonoBehaviour
 
         if (stayTime >= 2.0f)
         {
-            SceneManager.LoadScene(nextSceneName);
+            DataManager.Instance.Save();
+            //SceneManager.LoadScene(nextSceneName);
+            DataManager.Instance.nextSceneName = nextSceneName;
+            SceneManager.LoadScene("Loading");
         }
     }
 }
