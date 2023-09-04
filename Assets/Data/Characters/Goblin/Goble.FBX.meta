@@ -1,140 +1,337 @@
 fileFormatVersion: 2
 guid: e30a2be7bb1546f4181d5a21241ce53a
 ModelImporter:
-  serializedVersion: 18
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: Goble_Bip001
-    100004: Goble_Bip001 Footsteps
-    100006: Goble_Bip001 Head
-    100008: Goble_Bip001 HeadNub
-    100010: Goble_Bip001 L Calf
-    100012: Goble_Bip001 L Clavicle
-    100014: Goble_Bip001 L Foot
-    100016: Goble_Bip001 L Forearm
-    100018: Goble_Bip001 L Hand
-    100020: Goble_Bip001 L Thigh
-    100022: Goble_Bip001 L Toe0
-    100024: Goble_Bip001 L Toe0Nub
-    100026: Goble_Bip001 L UpperArm
-    100028: Goble_Bip001 Neck
-    100030: Goble_Bip001 Pelvis
-    100032: Goble_Bip001 Prop1
-    100034: Goble_Bip001 R Calf
-    100036: Goble_Bip001 R Clavicle
-    100038: Goble_Bip001 R Foot
-    100040: Goble_Bip001 R Forearm
-    100042: Goble_Bip001 R Hand
-    100044: Goble_Bip001 R Thigh
-    100046: Goble_Bip001 R Toe0
-    100048: Goble_Bip001 R Toe0Nub
-    100050: Goble_Bip001 R UpperArm
-    100052: Goble_Bip001 Spine
-    100054: Goble_Bip001 Spine1
-    100056: Goble_L_ear
-    100058: Goble_L_eye_Bone001
-    100060: Goble_mon02
-    100062: Goble_R_ear001
-    100064: Goble_R_eye_Bone001
-    100066: Goble_weapon
-    400000: //RootNode
-    400002: Goble_Bip001
-    400004: Goble_Bip001 Footsteps
-    400006: Goble_Bip001 Head
-    400008: Goble_Bip001 HeadNub
-    400010: Goble_Bip001 L Calf
-    400012: Goble_Bip001 L Clavicle
-    400014: Goble_Bip001 L Foot
-    400016: Goble_Bip001 L Forearm
-    400018: Goble_Bip001 L Hand
-    400020: Goble_Bip001 L Thigh
-    400022: Goble_Bip001 L Toe0
-    400024: Goble_Bip001 L Toe0Nub
-    400026: Goble_Bip001 L UpperArm
-    400028: Goble_Bip001 Neck
-    400030: Goble_Bip001 Pelvis
-    400032: Goble_Bip001 Prop1
-    400034: Goble_Bip001 R Calf
-    400036: Goble_Bip001 R Clavicle
-    400038: Goble_Bip001 R Foot
-    400040: Goble_Bip001 R Forearm
-    400042: Goble_Bip001 R Hand
-    400044: Goble_Bip001 R Thigh
-    400046: Goble_Bip001 R Toe0
-    400048: Goble_Bip001 R Toe0Nub
-    400050: Goble_Bip001 R UpperArm
-    400052: Goble_Bip001 Spine
-    400054: Goble_Bip001 Spine1
-    400056: Goble_L_ear
-    400058: Goble_L_eye_Bone001
-    400060: Goble_mon02
-    400062: Goble_R_ear001
-    400064: Goble_R_eye_Bone001
-    400066: Goble_weapon
-    4300000: Goble_weapon
-    4300002: Goble_mon02
-    9500000: //RootNode
-    11100000: //RootNode
-    13700000: Goble_mon02
-    13700002: Goble_weapon
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Goble_Bip001
+  - first:
+      1: 100004
+    second: Goble_Bip001 Footsteps
+  - first:
+      1: 100006
+    second: Goble_Bip001 Head
+  - first:
+      1: 100008
+    second: Goble_Bip001 HeadNub
+  - first:
+      1: 100010
+    second: Goble_Bip001 L Calf
+  - first:
+      1: 100012
+    second: Goble_Bip001 L Clavicle
+  - first:
+      1: 100014
+    second: Goble_Bip001 L Foot
+  - first:
+      1: 100016
+    second: Goble_Bip001 L Forearm
+  - first:
+      1: 100018
+    second: Goble_Bip001 L Hand
+  - first:
+      1: 100020
+    second: Goble_Bip001 L Thigh
+  - first:
+      1: 100022
+    second: Goble_Bip001 L Toe0
+  - first:
+      1: 100024
+    second: Goble_Bip001 L Toe0Nub
+  - first:
+      1: 100026
+    second: Goble_Bip001 L UpperArm
+  - first:
+      1: 100028
+    second: Goble_Bip001 Neck
+  - first:
+      1: 100030
+    second: Goble_Bip001 Pelvis
+  - first:
+      1: 100032
+    second: Goble_Bip001 Prop1
+  - first:
+      1: 100034
+    second: Goble_Bip001 R Calf
+  - first:
+      1: 100036
+    second: Goble_Bip001 R Clavicle
+  - first:
+      1: 100038
+    second: Goble_Bip001 R Foot
+  - first:
+      1: 100040
+    second: Goble_Bip001 R Forearm
+  - first:
+      1: 100042
+    second: Goble_Bip001 R Hand
+  - first:
+      1: 100044
+    second: Goble_Bip001 R Thigh
+  - first:
+      1: 100046
+    second: Goble_Bip001 R Toe0
+  - first:
+      1: 100048
+    second: Goble_Bip001 R Toe0Nub
+  - first:
+      1: 100050
+    second: Goble_Bip001 R UpperArm
+  - first:
+      1: 100052
+    second: Goble_Bip001 Spine
+  - first:
+      1: 100054
+    second: Goble_Bip001 Spine1
+  - first:
+      1: 100056
+    second: Goble_L_ear
+  - first:
+      1: 100058
+    second: Goble_L_eye_Bone001
+  - first:
+      1: 100060
+    second: Goble_mon02
+  - first:
+      1: 100062
+    second: Goble_R_ear001
+  - first:
+      1: 100064
+    second: Goble_R_eye_Bone001
+  - first:
+      1: 100066
+    second: Goble_weapon
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Goble_Bip001
+  - first:
+      4: 400004
+    second: Goble_Bip001 Footsteps
+  - first:
+      4: 400006
+    second: Goble_Bip001 Head
+  - first:
+      4: 400008
+    second: Goble_Bip001 HeadNub
+  - first:
+      4: 400010
+    second: Goble_Bip001 L Calf
+  - first:
+      4: 400012
+    second: Goble_Bip001 L Clavicle
+  - first:
+      4: 400014
+    second: Goble_Bip001 L Foot
+  - first:
+      4: 400016
+    second: Goble_Bip001 L Forearm
+  - first:
+      4: 400018
+    second: Goble_Bip001 L Hand
+  - first:
+      4: 400020
+    second: Goble_Bip001 L Thigh
+  - first:
+      4: 400022
+    second: Goble_Bip001 L Toe0
+  - first:
+      4: 400024
+    second: Goble_Bip001 L Toe0Nub
+  - first:
+      4: 400026
+    second: Goble_Bip001 L UpperArm
+  - first:
+      4: 400028
+    second: Goble_Bip001 Neck
+  - first:
+      4: 400030
+    second: Goble_Bip001 Pelvis
+  - first:
+      4: 400032
+    second: Goble_Bip001 Prop1
+  - first:
+      4: 400034
+    second: Goble_Bip001 R Calf
+  - first:
+      4: 400036
+    second: Goble_Bip001 R Clavicle
+  - first:
+      4: 400038
+    second: Goble_Bip001 R Foot
+  - first:
+      4: 400040
+    second: Goble_Bip001 R Forearm
+  - first:
+      4: 400042
+    second: Goble_Bip001 R Hand
+  - first:
+      4: 400044
+    second: Goble_Bip001 R Thigh
+  - first:
+      4: 400046
+    second: Goble_Bip001 R Toe0
+  - first:
+      4: 400048
+    second: Goble_Bip001 R Toe0Nub
+  - first:
+      4: 400050
+    second: Goble_Bip001 R UpperArm
+  - first:
+      4: 400052
+    second: Goble_Bip001 Spine
+  - first:
+      4: 400054
+    second: Goble_Bip001 Spine1
+  - first:
+      4: 400056
+    second: Goble_L_ear
+  - first:
+      4: 400058
+    second: Goble_L_eye_Bone001
+  - first:
+      4: 400060
+    second: Goble_mon02
+  - first:
+      4: 400062
+    second: Goble_R_ear001
+  - first:
+      4: 400064
+    second: Goble_R_eye_Bone001
+  - first:
+      4: 400066
+    second: Goble_weapon
+  - first:
+      43: 4300000
+    second: Goble_weapon
+  - first:
+      43: 4300002
+    second: Goble_mon02
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Goble_mon02
+  - first:
+      137: 13700002
+    second: Goble_weapon
+  externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+    resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 3
-    animationRotationError: .5
-    animationPositionError: .5
-    animationScaleError: .5
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .00999999978
+    globalScale: 0.01
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
-    splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - fd0c73b359d492242a6dff6cbf5d8ca4
+  - 3c04bf92cf1eb9f4481a5eb140083e55
+  - fd497eea90a4bdf45aab6759a606a185
+  - 00742d95e85384f408a87dee42cc6628
+  - bd69af74c2b760d43b976a40b1fe66fb
+  - 91314ccdd82ca2c45a791357c51c4400
+  - 8f23a49503d5bd74cb4ea5f27093f5b5
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
+    serializedVersion: 3
     human: []
     skeleton: []
-    armTwist: .5
-    foreArmTwist: .5
-    upperLegTwist: .5
-    legTwist: .5
-    armStretch: .0500000007
-    legStretch: .0500000007
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
     feetSpacing: 0
+    globalScale: 0.01
     rootMotionBoneName: Goble_Bip001
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

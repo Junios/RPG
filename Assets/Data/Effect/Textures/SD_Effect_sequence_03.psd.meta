@@ -1,312 +1,919 @@
 fileFormatVersion: 2
 guid: c55d6dd5448b5dd4cbbfdc1a0b7cec8e
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: SD_Effect_sequence_03_0
-    21300002: SD_Effect_sequence_03_1
-    21300004: SD_Effect_sequence_03_2
-    21300006: SD_Effect_sequence_03_3
-    21300008: SD_Effect_sequence_03_4
-    21300010: SD_Effect_sequence_03_5
-    21300012: SD_Effect_sequence_03_6
-    21300014: SD_Effect_sequence_03_7
-    21300016: SD_Effect_sequence_03_8
-    21300018: SD_Effect_sequence_03_9
-    21300020: SD_Effect_sequence_03_10
-    21300022: SD_Effect_sequence_03_11
-    21300024: SD_Effect_sequence_03_12
-    21300026: SD_Effect_sequence_03_13
-    21300028: SD_Effect_sequence_03_14
-    21300030: SD_Effect_sequence_03_15
-    21300032: SD_Effect_sequence_03_16
-    21300034: SD_Effect_sequence_03_17
-    21300036: SD_Effect_sequence_03_18
-    21300038: SD_Effect_sequence_03_19
-    21300040: SD_Effect_sequence_03_20
-    21300042: SD_Effect_sequence_03_21
-    21300044: SD_Effect_sequence_03_22
-    21300046: SD_Effect_sequence_03_23
-    21300048: SD_Effect_sequence_03_24
-    21300050: SD_Effect_sequence_03_25
-    21300052: SD_Effect_sequence_03_26
-    21300054: SD_Effect_sequence_03_27
-    21300056: SD_Effect_sequence_03_28
-    21300058: SD_Effect_sequence_03_29
-    21300060: SD_Effect_sequence_03_30
-    21300062: SD_Effect_sequence_03_31
-    21300064: SD_eff_Attack_01_G_0
-    21300066: SD_eff_Attack_01_G_1
-    21300068: SD_eff_Attack_01_G_2
-    21300070: SD_eff_Attack_01_G_3
-    21300072: SD_eff_Attack_01_G_4
-    21300074: SD_eff_Attack_01_G_5
-    21300076: SD_eff_Attack_01_G_6
-    21300078: SD_eff_Attack_01_G_7
-    21300080: SD_eff_Attack_01_G_8
-    21300082: SD_eff_Attack_01_G_9
-    21300084: SD_eff_Attack_01_G_10
-    21300086: SD_eff_Attack_01_G_11
-    21300088: SD_eff_Attack_01_G_12
-    21300090: SD_eff_Attack_01_G_13
-    21300092: SD_eff_Attack_01_G_14
-    21300094: SD_eff_Attack_01_G_15
-    21300096: SD_Effect_sequence_03_48
-    21300098: SD_Effect_sequence_03_49
-    21300100: SD_Effect_sequence_03_50
-    21300102: SD_Effect_sequence_03_51
-    21300104: SD_Effect_sequence_03_52
-    21300106: SD_Effect_sequence_03_53
-    21300108: SD_Effect_sequence_03_54
-    21300110: SD_Effect_sequence_03_55
-    21300112: SD_Effect_sequence_03_56
-    21300114: SD_Effect_sequence_03_57
-    21300116: SD_Effect_sequence_03_58
-    21300118: SD_Effect_sequence_03_59
-    21300120: SD_Effect_sequence_03_60
-    21300122: SD_Effect_sequence_03_61
-    21300124: SD_Effect_sequence_03_62
-    21300126: SD_Effect_sequence_03_63
-    21300128: SD_Effect_sequence_03_64
-    21300130: SD_Effect_sequence_03_65
-    21300132: SD_Effect_sequence_03_66
-    21300134: SD_Effect_sequence_03_67
-    21300136: SD_Effect_sequence_03_68
-    21300138: SD_Effect_sequence_03_69
-    21300140: SD_Effect_sequence_03_70
-    21300142: SD_Effect_sequence_03_71
-    21300144: SD_Effect_sequence_03_72
-    21300146: SD_Effect_sequence_03_73
-    21300148: SD_Effect_sequence_03_74
-    21300150: SD_Effect_sequence_03_75
-    21300152: SD_Effect_sequence_03_76
-    21300154: SD_Effect_sequence_03_77
-    21300156: SD_Effect_sequence_03_78
-    21300158: SD_Effect_sequence_03_79
-    21300160: SD_Effect_sequence_03_80
-    21300162: SD_Effect_sequence_03_81
-    21300164: SD_Effect_sequence_03_82
-    21300166: SD_Effect_sequence_03_83
-    21300168: SD_Effect_sequence_03_82
-    21300170: SD_Effect_sequence_03_83
-    21300172: SD_Effect_sequence_03_86
-    21300174: SD_Effect_sequence_03_83
-    21300176: SD_Effect_sequence_03_82
-    21300178: SD_Effect_sequence_03_85
-    21300180: SD_Effect_sequence_03_90
-    21300182: SD_Effect_sequence_03_91
-    21300184: SD_Effect_sequence_03_92
-    21300186: SD_Effect_sequence_03_93
-    21300188: SD_Effect_sequence_03_94
-    21300190: SD_Effect_sequence_03_95
-    21300192: SD_Effect_sequence_03_96
-    21300194: SD_Effect_sequence_03_97
-    21300196: SD_Effect_sequence_03_98
-    21300198: SD_Effect_sequence_03_99
-    21300200: SD_Effect_sequence_03_100
-    21300202: SD_Effect_sequence_03_101
-    21300204: SD_Effect_sequence_03_102
-    21300206: SD_Effect_sequence_03_103
-    21300208: SD_Effect_sequence_03_104
-    21300210: SD_Effect_sequence_03_105
-    21300212: SD_Effect_sequence_03_106
-    21300214: SD_Effect_sequence_03_107
-    21300216: SD_Effect_sequence_03_108
-    21300218: SD_Effect_sequence_03_109
-    21300220: SD_Effect_sequence_03_110
-    21300222: SD_Effect_sequence_03_111
-    21300224: SD_Effect_sequence_03_84
-    21300226: SD_Effect_sequence_03_113
-    21300228: SD_Effect_sequence_03_114
-    21300230: SD_Effect_sequence_03_115
-    21300232: SD_Effect_sequence_03_116
-    21300234: SD_Effect_sequence_03_117
-    21300236: SD_Effect_sequence_03_118
-    21300238: SD_Effect_sequence_03_119
-    21300240: SD_Effect_sequence_03_120
-    21300242: SD_Effect_sequence_03_121
-    21300244: SD_Effect_sequence_03_122
-    21300246: SD_Effect_sequence_03_123
-    21300248: SD_Effect_sequence_03_124
-    21300250: SD_Effect_sequence_03_125
-    21300252: SD_Effect_sequence_03_126
-    21300254: SD_Effect_sequence_03_127
-    21300256: SD_Effect_sequence_03_128
-    21300258: SD_Effect_sequence_03_129
-    21300260: SD_Effect_sequence_03_130
-    21300262: SD_Effect_sequence_03_131
-    21300264: SD_Effect_sequence_03_132
-    21300266: SD_Effect_sequence_03_133
-    21300268: SD_Effect_sequence_03_134
-    21300270: SD_Effect_sequence_03_135
-    21300272: SD_Effect_sequence_03_136
-    21300274: SD_Effect_sequence_03_137
-    21300276: SD_Effect_sequence_03_138
-    21300278: SD_Effect_sequence_03_139
-    21300280: SD_Effect_sequence_03_140
-    21300282: SD_Effect_sequence_03_141
-    21300284: SD_Effect_sequence_03_142
-    21300286: SD_Effect_sequence_03_143
-    21300288: SD_Effect_sequence_03_144
-    21300290: SD_Effect_sequence_03_145
-    21300292: SD_Effect_sequence_03_146
-    21300294: SD_Effect_sequence_03_147
-    21300296: SD_Effect_sequence_03_148
-    21300298: SD_Effect_sequence_03_149
-    21300300: SD_Effect_sequence_03_150
-    21300302: SD_Effect_sequence_03_151
-    21300304: SD_Effect_sequence_03_152
-    21300306: SD_Effect_sequence_03_153
-    21300308: SD_Effect_sequence_03_154
-    21300310: SD_Effect_sequence_03_155
-    21300312: SD_Effect_sequence_03_156
-    21300314: SD_Effect_sequence_03_157
-    21300316: SD_Effect_sequence_03_158
-    21300318: SD_Effect_sequence_03_159
-    21300320: SD_Effect_sequence_03_160
-    21300322: SD_Effect_sequence_03_161
-    21300324: SD_Effect_sequence_03_162
-    21300326: SD_Effect_sequence_03_163
-    21300328: SD_Effect_sequence_03_164
-    21300330: SD_Effect_sequence_03_165
-    21300332: SD_Effect_sequence_03_166
-    21300334: SD_Effect_sequence_03_167
-    21300336: SD_Effect_sequence_03_168
-    21300338: SD_Effect_sequence_03_169
-    21300340: SD_Effect_sequence_03_170
-    21300342: SD_Effect_sequence_03_171
-    21300344: SD_Effect_sequence_03_172
-    21300346: SD_Effect_sequence_03_173
-    21300348: SD_Effect_sequence_03_174
-    21300350: SD_Effect_sequence_03_175
-    21300352: SD_Effect_sequence_03_176
-    21300354: SD_Effect_sequence_03_177
-    21300356: SD_Effect_sequence_03_178
-    21300358: SD_Effect_sequence_03_179
-    21300360: SD_Effect_sequence_03_180
-    21300362: SD_Effect_sequence_03_181
-    21300364: SD_Effect_sequence_03_182
-    21300366: SD_Effect_sequence_03_183
-    21300368: SD_Effect_sequence_03_184
-    21300370: SD_Effect_sequence_03_185
-    21300372: SD_Effect_sequence_03_186
-    21300374: SD_Effect_sequence_03_187
-    21300376: SD_Effect_sequence_03_188
-    21300378: SD_Effect_sequence_03_189
-    21300380: SD_Effect_sequence_03_190
-    21300382: SD_Effect_sequence_03_191
-    21300384: SD_Effect_sequence_03_192
-    21300386: SD_Effect_sequence_03_193
-    21300388: SD_Effect_sequence_03_194
-    21300390: SD_Effect_sequence_03_195
-    21300392: SD_Effect_sequence_03_196
-    21300394: SD_Effect_sequence_03_197
-    21300396: SD_Effect_sequence_03_198
-    21300398: SD_Effect_sequence_03_199
-    21300400: SD_Effect_sequence_03_200
-    21300402: SD_Effect_sequence_03_201
-    21300404: SD_Effect_sequence_03_202
-    21300406: SD_Effect_sequence_03_203
-    21300408: SD_Effect_sequence_03_204
-    21300410: SD_Effect_sequence_03_205
-    21300412: SD_Effect_sequence_03_206
-    21300414: SD_Effect_sequence_03_207
-    21300416: SD_Effect_sequence_03_208
-    21300418: SD_Effect_sequence_03_209
-    21300420: SD_Effect_sequence_03_210
-    21300422: SD_Effect_sequence_03_211
-    21300424: SD_Effect_sequence_03_212
-    21300426: SD_Effect_sequence_03_213
-    21300428: SD_Effect_sequence_03_214
-    21300430: SD_Effect_sequence_03_215
-    21300432: SD_Effect_sequence_03_216
-    21300434: SD_Effect_sequence_03_217
-    21300436: SD_Effect_sequence_03_218
-    21300438: SD_Effect_sequence_03_219
-    21300440: SD_Effect_sequence_03_220
-    21300442: SD_Effect_sequence_03_221
-    21300444: SD_Effect_sequence_03_222
-    21300446: SD_Effect_sequence_03_223
-    21300448: SD_Effect_sequence_03_224
-    21300450: SD_Effect_sequence_03_225
-    21300452: SD_Effect_sequence_03_226
-    21300454: SD_Effect_sequence_03_227
-    21300456: SD_Effect_sequence_03_228
-    21300458: SD_Effect_sequence_03_229
-    21300460: SD_Effect_sequence_03_230
-    21300462: SD_Effect_sequence_03_231
-    21300464: SD_Effect_sequence_03_232
-    21300466: SD_Effect_sequence_03_233
-    21300468: SD_Effect_sequence_03_234
-    21300470: SD_Effect_sequence_03_235
-    21300472: SD_Effect_sequence_03_236
-    21300474: SD_Effect_sequence_03_237
-    21300476: SD_Effect_sequence_03_238
-    21300478: SD_Effect_sequence_03_239
-    21300480: SD_Effect_sequence_03_240
-    21300482: SD_Effect_sequence_03_241
-    21300484: SD_Effect_sequence_03_242
-    21300486: SD_Effect_sequence_03_243
-    21300488: SD_Effect_sequence_03_244
-    21300490: SD_Effect_sequence_03_245
-    21300492: SD_Effect_sequence_03_246
-    21300494: SD_Effect_sequence_03_247
-    21300496: SD_Effect_sequence_03_248
-    21300498: SD_Effect_sequence_03_249
-    21300500: SD_Effect_sequence_03_250
-    21300502: SD_Effect_sequence_03_251
-    21300504: SD_Effect_sequence_03_252
-    21300506: SD_Effect_sequence_03_253
-    21300508: SD_Effect_sequence_03_254
-    21300510: SD_Effect_sequence_03_255
-    21300512: SD_Effect_sequence_03_87
-    21300514: SD_Effect_sequence_03_88
-    21300516: SD_Effect_sequence_03_89
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SD_Effect_sequence_03_0
+  - first:
+      213: 21300002
+    second: SD_Effect_sequence_03_1
+  - first:
+      213: 21300004
+    second: SD_Effect_sequence_03_2
+  - first:
+      213: 21300006
+    second: SD_Effect_sequence_03_3
+  - first:
+      213: 21300008
+    second: SD_Effect_sequence_03_4
+  - first:
+      213: 21300010
+    second: SD_Effect_sequence_03_5
+  - first:
+      213: 21300012
+    second: SD_Effect_sequence_03_6
+  - first:
+      213: 21300014
+    second: SD_Effect_sequence_03_7
+  - first:
+      213: 21300016
+    second: SD_Effect_sequence_03_8
+  - first:
+      213: 21300018
+    second: SD_Effect_sequence_03_9
+  - first:
+      213: 21300020
+    second: SD_Effect_sequence_03_10
+  - first:
+      213: 21300022
+    second: SD_Effect_sequence_03_11
+  - first:
+      213: 21300024
+    second: SD_Effect_sequence_03_12
+  - first:
+      213: 21300026
+    second: SD_Effect_sequence_03_13
+  - first:
+      213: 21300028
+    second: SD_Effect_sequence_03_14
+  - first:
+      213: 21300030
+    second: SD_Effect_sequence_03_15
+  - first:
+      213: 21300032
+    second: SD_Effect_sequence_03_16
+  - first:
+      213: 21300034
+    second: SD_Effect_sequence_03_17
+  - first:
+      213: 21300036
+    second: SD_Effect_sequence_03_18
+  - first:
+      213: 21300038
+    second: SD_Effect_sequence_03_19
+  - first:
+      213: 21300040
+    second: SD_Effect_sequence_03_20
+  - first:
+      213: 21300042
+    second: SD_Effect_sequence_03_21
+  - first:
+      213: 21300044
+    second: SD_Effect_sequence_03_22
+  - first:
+      213: 21300046
+    second: SD_Effect_sequence_03_23
+  - first:
+      213: 21300048
+    second: SD_Effect_sequence_03_24
+  - first:
+      213: 21300050
+    second: SD_Effect_sequence_03_25
+  - first:
+      213: 21300052
+    second: SD_Effect_sequence_03_26
+  - first:
+      213: 21300054
+    second: SD_Effect_sequence_03_27
+  - first:
+      213: 21300056
+    second: SD_Effect_sequence_03_28
+  - first:
+      213: 21300058
+    second: SD_Effect_sequence_03_29
+  - first:
+      213: 21300060
+    second: SD_Effect_sequence_03_30
+  - first:
+      213: 21300062
+    second: SD_Effect_sequence_03_31
+  - first:
+      213: 21300064
+    second: SD_eff_Attack_01_G_0
+  - first:
+      213: 21300066
+    second: SD_eff_Attack_01_G_1
+  - first:
+      213: 21300068
+    second: SD_eff_Attack_01_G_2
+  - first:
+      213: 21300070
+    second: SD_eff_Attack_01_G_3
+  - first:
+      213: 21300072
+    second: SD_eff_Attack_01_G_4
+  - first:
+      213: 21300074
+    second: SD_eff_Attack_01_G_5
+  - first:
+      213: 21300076
+    second: SD_eff_Attack_01_G_6
+  - first:
+      213: 21300078
+    second: SD_eff_Attack_01_G_7
+  - first:
+      213: 21300080
+    second: SD_eff_Attack_01_G_8
+  - first:
+      213: 21300082
+    second: SD_eff_Attack_01_G_9
+  - first:
+      213: 21300084
+    second: SD_eff_Attack_01_G_10
+  - first:
+      213: 21300086
+    second: SD_eff_Attack_01_G_11
+  - first:
+      213: 21300088
+    second: SD_eff_Attack_01_G_12
+  - first:
+      213: 21300090
+    second: SD_eff_Attack_01_G_13
+  - first:
+      213: 21300092
+    second: SD_eff_Attack_01_G_14
+  - first:
+      213: 21300094
+    second: SD_eff_Attack_01_G_15
+  - first:
+      213: 21300096
+    second: SD_Effect_sequence_03_48
+  - first:
+      213: 21300098
+    second: SD_Effect_sequence_03_49
+  - first:
+      213: 21300100
+    second: SD_Effect_sequence_03_50
+  - first:
+      213: 21300102
+    second: SD_Effect_sequence_03_51
+  - first:
+      213: 21300104
+    second: SD_Effect_sequence_03_52
+  - first:
+      213: 21300106
+    second: SD_Effect_sequence_03_53
+  - first:
+      213: 21300108
+    second: SD_Effect_sequence_03_54
+  - first:
+      213: 21300110
+    second: SD_Effect_sequence_03_55
+  - first:
+      213: 21300112
+    second: SD_Effect_sequence_03_56
+  - first:
+      213: 21300114
+    second: SD_Effect_sequence_03_57
+  - first:
+      213: 21300116
+    second: SD_Effect_sequence_03_58
+  - first:
+      213: 21300118
+    second: SD_Effect_sequence_03_59
+  - first:
+      213: 21300120
+    second: SD_Effect_sequence_03_60
+  - first:
+      213: 21300122
+    second: SD_Effect_sequence_03_61
+  - first:
+      213: 21300124
+    second: SD_Effect_sequence_03_62
+  - first:
+      213: 21300126
+    second: SD_Effect_sequence_03_63
+  - first:
+      213: 21300128
+    second: SD_Effect_sequence_03_64
+  - first:
+      213: 21300130
+    second: SD_Effect_sequence_03_65
+  - first:
+      213: 21300132
+    second: SD_Effect_sequence_03_66
+  - first:
+      213: 21300134
+    second: SD_Effect_sequence_03_67
+  - first:
+      213: 21300136
+    second: SD_Effect_sequence_03_68
+  - first:
+      213: 21300138
+    second: SD_Effect_sequence_03_69
+  - first:
+      213: 21300140
+    second: SD_Effect_sequence_03_70
+  - first:
+      213: 21300142
+    second: SD_Effect_sequence_03_71
+  - first:
+      213: 21300144
+    second: SD_Effect_sequence_03_72
+  - first:
+      213: 21300146
+    second: SD_Effect_sequence_03_73
+  - first:
+      213: 21300148
+    second: SD_Effect_sequence_03_74
+  - first:
+      213: 21300150
+    second: SD_Effect_sequence_03_75
+  - first:
+      213: 21300152
+    second: SD_Effect_sequence_03_76
+  - first:
+      213: 21300154
+    second: SD_Effect_sequence_03_77
+  - first:
+      213: 21300156
+    second: SD_Effect_sequence_03_78
+  - first:
+      213: 21300158
+    second: SD_Effect_sequence_03_79
+  - first:
+      213: 21300160
+    second: SD_Effect_sequence_03_80
+  - first:
+      213: 21300162
+    second: SD_Effect_sequence_03_81
+  - first:
+      213: 21300164
+    second: SD_Effect_sequence_03_82
+  - first:
+      213: 21300166
+    second: SD_Effect_sequence_03_83
+  - first:
+      213: 21300168
+    second: SD_Effect_sequence_03_82
+  - first:
+      213: 21300170
+    second: SD_Effect_sequence_03_83
+  - first:
+      213: 21300172
+    second: SD_Effect_sequence_03_86
+  - first:
+      213: 21300174
+    second: SD_Effect_sequence_03_83
+  - first:
+      213: 21300176
+    second: SD_Effect_sequence_03_82
+  - first:
+      213: 21300178
+    second: SD_Effect_sequence_03_85
+  - first:
+      213: 21300180
+    second: SD_Effect_sequence_03_90
+  - first:
+      213: 21300182
+    second: SD_Effect_sequence_03_91
+  - first:
+      213: 21300184
+    second: SD_Effect_sequence_03_92
+  - first:
+      213: 21300186
+    second: SD_Effect_sequence_03_93
+  - first:
+      213: 21300188
+    second: SD_Effect_sequence_03_94
+  - first:
+      213: 21300190
+    second: SD_Effect_sequence_03_95
+  - first:
+      213: 21300192
+    second: SD_Effect_sequence_03_96
+  - first:
+      213: 21300194
+    second: SD_Effect_sequence_03_97
+  - first:
+      213: 21300196
+    second: SD_Effect_sequence_03_98
+  - first:
+      213: 21300198
+    second: SD_Effect_sequence_03_99
+  - first:
+      213: 21300200
+    second: SD_Effect_sequence_03_100
+  - first:
+      213: 21300202
+    second: SD_Effect_sequence_03_101
+  - first:
+      213: 21300204
+    second: SD_Effect_sequence_03_102
+  - first:
+      213: 21300206
+    second: SD_Effect_sequence_03_103
+  - first:
+      213: 21300208
+    second: SD_Effect_sequence_03_104
+  - first:
+      213: 21300210
+    second: SD_Effect_sequence_03_105
+  - first:
+      213: 21300212
+    second: SD_Effect_sequence_03_106
+  - first:
+      213: 21300214
+    second: SD_Effect_sequence_03_107
+  - first:
+      213: 21300216
+    second: SD_Effect_sequence_03_108
+  - first:
+      213: 21300218
+    second: SD_Effect_sequence_03_109
+  - first:
+      213: 21300220
+    second: SD_Effect_sequence_03_110
+  - first:
+      213: 21300222
+    second: SD_Effect_sequence_03_111
+  - first:
+      213: 21300224
+    second: SD_Effect_sequence_03_84
+  - first:
+      213: 21300226
+    second: SD_Effect_sequence_03_113
+  - first:
+      213: 21300228
+    second: SD_Effect_sequence_03_114
+  - first:
+      213: 21300230
+    second: SD_Effect_sequence_03_115
+  - first:
+      213: 21300232
+    second: SD_Effect_sequence_03_116
+  - first:
+      213: 21300234
+    second: SD_Effect_sequence_03_117
+  - first:
+      213: 21300236
+    second: SD_Effect_sequence_03_118
+  - first:
+      213: 21300238
+    second: SD_Effect_sequence_03_119
+  - first:
+      213: 21300240
+    second: SD_Effect_sequence_03_120
+  - first:
+      213: 21300242
+    second: SD_Effect_sequence_03_121
+  - first:
+      213: 21300244
+    second: SD_Effect_sequence_03_122
+  - first:
+      213: 21300246
+    second: SD_Effect_sequence_03_123
+  - first:
+      213: 21300248
+    second: SD_Effect_sequence_03_124
+  - first:
+      213: 21300250
+    second: SD_Effect_sequence_03_125
+  - first:
+      213: 21300252
+    second: SD_Effect_sequence_03_126
+  - first:
+      213: 21300254
+    second: SD_Effect_sequence_03_127
+  - first:
+      213: 21300256
+    second: SD_Effect_sequence_03_128
+  - first:
+      213: 21300258
+    second: SD_Effect_sequence_03_129
+  - first:
+      213: 21300260
+    second: SD_Effect_sequence_03_130
+  - first:
+      213: 21300262
+    second: SD_Effect_sequence_03_131
+  - first:
+      213: 21300264
+    second: SD_Effect_sequence_03_132
+  - first:
+      213: 21300266
+    second: SD_Effect_sequence_03_133
+  - first:
+      213: 21300268
+    second: SD_Effect_sequence_03_134
+  - first:
+      213: 21300270
+    second: SD_Effect_sequence_03_135
+  - first:
+      213: 21300272
+    second: SD_Effect_sequence_03_136
+  - first:
+      213: 21300274
+    second: SD_Effect_sequence_03_137
+  - first:
+      213: 21300276
+    second: SD_Effect_sequence_03_138
+  - first:
+      213: 21300278
+    second: SD_Effect_sequence_03_139
+  - first:
+      213: 21300280
+    second: SD_Effect_sequence_03_140
+  - first:
+      213: 21300282
+    second: SD_Effect_sequence_03_141
+  - first:
+      213: 21300284
+    second: SD_Effect_sequence_03_142
+  - first:
+      213: 21300286
+    second: SD_Effect_sequence_03_143
+  - first:
+      213: 21300288
+    second: SD_Effect_sequence_03_144
+  - first:
+      213: 21300290
+    second: SD_Effect_sequence_03_145
+  - first:
+      213: 21300292
+    second: SD_Effect_sequence_03_146
+  - first:
+      213: 21300294
+    second: SD_Effect_sequence_03_147
+  - first:
+      213: 21300296
+    second: SD_Effect_sequence_03_148
+  - first:
+      213: 21300298
+    second: SD_Effect_sequence_03_149
+  - first:
+      213: 21300300
+    second: SD_Effect_sequence_03_150
+  - first:
+      213: 21300302
+    second: SD_Effect_sequence_03_151
+  - first:
+      213: 21300304
+    second: SD_Effect_sequence_03_152
+  - first:
+      213: 21300306
+    second: SD_Effect_sequence_03_153
+  - first:
+      213: 21300308
+    second: SD_Effect_sequence_03_154
+  - first:
+      213: 21300310
+    second: SD_Effect_sequence_03_155
+  - first:
+      213: 21300312
+    second: SD_Effect_sequence_03_156
+  - first:
+      213: 21300314
+    second: SD_Effect_sequence_03_157
+  - first:
+      213: 21300316
+    second: SD_Effect_sequence_03_158
+  - first:
+      213: 21300318
+    second: SD_Effect_sequence_03_159
+  - first:
+      213: 21300320
+    second: SD_Effect_sequence_03_160
+  - first:
+      213: 21300322
+    second: SD_Effect_sequence_03_161
+  - first:
+      213: 21300324
+    second: SD_Effect_sequence_03_162
+  - first:
+      213: 21300326
+    second: SD_Effect_sequence_03_163
+  - first:
+      213: 21300328
+    second: SD_Effect_sequence_03_164
+  - first:
+      213: 21300330
+    second: SD_Effect_sequence_03_165
+  - first:
+      213: 21300332
+    second: SD_Effect_sequence_03_166
+  - first:
+      213: 21300334
+    second: SD_Effect_sequence_03_167
+  - first:
+      213: 21300336
+    second: SD_Effect_sequence_03_168
+  - first:
+      213: 21300338
+    second: SD_Effect_sequence_03_169
+  - first:
+      213: 21300340
+    second: SD_Effect_sequence_03_170
+  - first:
+      213: 21300342
+    second: SD_Effect_sequence_03_171
+  - first:
+      213: 21300344
+    second: SD_Effect_sequence_03_172
+  - first:
+      213: 21300346
+    second: SD_Effect_sequence_03_173
+  - first:
+      213: 21300348
+    second: SD_Effect_sequence_03_174
+  - first:
+      213: 21300350
+    second: SD_Effect_sequence_03_175
+  - first:
+      213: 21300352
+    second: SD_Effect_sequence_03_176
+  - first:
+      213: 21300354
+    second: SD_Effect_sequence_03_177
+  - first:
+      213: 21300356
+    second: SD_Effect_sequence_03_178
+  - first:
+      213: 21300358
+    second: SD_Effect_sequence_03_179
+  - first:
+      213: 21300360
+    second: SD_Effect_sequence_03_180
+  - first:
+      213: 21300362
+    second: SD_Effect_sequence_03_181
+  - first:
+      213: 21300364
+    second: SD_Effect_sequence_03_182
+  - first:
+      213: 21300366
+    second: SD_Effect_sequence_03_183
+  - first:
+      213: 21300368
+    second: SD_Effect_sequence_03_184
+  - first:
+      213: 21300370
+    second: SD_Effect_sequence_03_185
+  - first:
+      213: 21300372
+    second: SD_Effect_sequence_03_186
+  - first:
+      213: 21300374
+    second: SD_Effect_sequence_03_187
+  - first:
+      213: 21300376
+    second: SD_Effect_sequence_03_188
+  - first:
+      213: 21300378
+    second: SD_Effect_sequence_03_189
+  - first:
+      213: 21300380
+    second: SD_Effect_sequence_03_190
+  - first:
+      213: 21300382
+    second: SD_Effect_sequence_03_191
+  - first:
+      213: 21300384
+    second: SD_Effect_sequence_03_192
+  - first:
+      213: 21300386
+    second: SD_Effect_sequence_03_193
+  - first:
+      213: 21300388
+    second: SD_Effect_sequence_03_194
+  - first:
+      213: 21300390
+    second: SD_Effect_sequence_03_195
+  - first:
+      213: 21300392
+    second: SD_Effect_sequence_03_196
+  - first:
+      213: 21300394
+    second: SD_Effect_sequence_03_197
+  - first:
+      213: 21300396
+    second: SD_Effect_sequence_03_198
+  - first:
+      213: 21300398
+    second: SD_Effect_sequence_03_199
+  - first:
+      213: 21300400
+    second: SD_Effect_sequence_03_200
+  - first:
+      213: 21300402
+    second: SD_Effect_sequence_03_201
+  - first:
+      213: 21300404
+    second: SD_Effect_sequence_03_202
+  - first:
+      213: 21300406
+    second: SD_Effect_sequence_03_203
+  - first:
+      213: 21300408
+    second: SD_Effect_sequence_03_204
+  - first:
+      213: 21300410
+    second: SD_Effect_sequence_03_205
+  - first:
+      213: 21300412
+    second: SD_Effect_sequence_03_206
+  - first:
+      213: 21300414
+    second: SD_Effect_sequence_03_207
+  - first:
+      213: 21300416
+    second: SD_Effect_sequence_03_208
+  - first:
+      213: 21300418
+    second: SD_Effect_sequence_03_209
+  - first:
+      213: 21300420
+    second: SD_Effect_sequence_03_210
+  - first:
+      213: 21300422
+    second: SD_Effect_sequence_03_211
+  - first:
+      213: 21300424
+    second: SD_Effect_sequence_03_212
+  - first:
+      213: 21300426
+    second: SD_Effect_sequence_03_213
+  - first:
+      213: 21300428
+    second: SD_Effect_sequence_03_214
+  - first:
+      213: 21300430
+    second: SD_Effect_sequence_03_215
+  - first:
+      213: 21300432
+    second: SD_Effect_sequence_03_216
+  - first:
+      213: 21300434
+    second: SD_Effect_sequence_03_217
+  - first:
+      213: 21300436
+    second: SD_Effect_sequence_03_218
+  - first:
+      213: 21300438
+    second: SD_Effect_sequence_03_219
+  - first:
+      213: 21300440
+    second: SD_Effect_sequence_03_220
+  - first:
+      213: 21300442
+    second: SD_Effect_sequence_03_221
+  - first:
+      213: 21300444
+    second: SD_Effect_sequence_03_222
+  - first:
+      213: 21300446
+    second: SD_Effect_sequence_03_223
+  - first:
+      213: 21300448
+    second: SD_Effect_sequence_03_224
+  - first:
+      213: 21300450
+    second: SD_Effect_sequence_03_225
+  - first:
+      213: 21300452
+    second: SD_Effect_sequence_03_226
+  - first:
+      213: 21300454
+    second: SD_Effect_sequence_03_227
+  - first:
+      213: 21300456
+    second: SD_Effect_sequence_03_228
+  - first:
+      213: 21300458
+    second: SD_Effect_sequence_03_229
+  - first:
+      213: 21300460
+    second: SD_Effect_sequence_03_230
+  - first:
+      213: 21300462
+    second: SD_Effect_sequence_03_231
+  - first:
+      213: 21300464
+    second: SD_Effect_sequence_03_232
+  - first:
+      213: 21300466
+    second: SD_Effect_sequence_03_233
+  - first:
+      213: 21300468
+    second: SD_Effect_sequence_03_234
+  - first:
+      213: 21300470
+    second: SD_Effect_sequence_03_235
+  - first:
+      213: 21300472
+    second: SD_Effect_sequence_03_236
+  - first:
+      213: 21300474
+    second: SD_Effect_sequence_03_237
+  - first:
+      213: 21300476
+    second: SD_Effect_sequence_03_238
+  - first:
+      213: 21300478
+    second: SD_Effect_sequence_03_239
+  - first:
+      213: 21300480
+    second: SD_Effect_sequence_03_240
+  - first:
+      213: 21300482
+    second: SD_Effect_sequence_03_241
+  - first:
+      213: 21300484
+    second: SD_Effect_sequence_03_242
+  - first:
+      213: 21300486
+    second: SD_Effect_sequence_03_243
+  - first:
+      213: 21300488
+    second: SD_Effect_sequence_03_244
+  - first:
+      213: 21300490
+    second: SD_Effect_sequence_03_245
+  - first:
+      213: 21300492
+    second: SD_Effect_sequence_03_246
+  - first:
+      213: 21300494
+    second: SD_Effect_sequence_03_247
+  - first:
+      213: 21300496
+    second: SD_Effect_sequence_03_248
+  - first:
+      213: 21300498
+    second: SD_Effect_sequence_03_249
+  - first:
+      213: 21300500
+    second: SD_Effect_sequence_03_250
+  - first:
+      213: 21300502
+    second: SD_Effect_sequence_03_251
+  - first:
+      213: 21300504
+    second: SD_Effect_sequence_03_252
+  - first:
+      213: 21300506
+    second: SD_Effect_sequence_03_253
+  - first:
+      213: 21300508
+    second: SD_Effect_sequence_03_254
+  - first:
+      213: 21300510
+    second: SD_Effect_sequence_03_255
+  - first:
+      213: 21300512
+    second: SD_Effect_sequence_03_87
+  - first:
+      213: 21300514
+    second: SD_Effect_sequence_03_88
+  - first:
+      213: 21300516
+    second: SD_Effect_sequence_03_89
+  externalObjects: {}
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    serializedVersion: 2
+    filterMode: 1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: SD_Effect_sequence_03_0
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_0
       rect:
         serializedVersion: 2
         x: 0
@@ -314,9 +921,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_1
       rect:
         serializedVersion: 2
         x: 128
@@ -324,9 +942,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_2
       rect:
         serializedVersion: 2
         x: 256
@@ -334,9 +963,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_3
       rect:
         serializedVersion: 2
         x: 384
@@ -344,9 +984,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_4
       rect:
         serializedVersion: 2
         x: 512
@@ -354,9 +1005,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_5
       rect:
         serializedVersion: 2
         x: 640
@@ -364,9 +1026,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_6
       rect:
         serializedVersion: 2
         x: 768
@@ -374,9 +1047,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_7
       rect:
         serializedVersion: 2
         x: 896
@@ -384,9 +1068,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_8
       rect:
         serializedVersion: 2
         x: 1024
@@ -394,9 +1089,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_9
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_9
       rect:
         serializedVersion: 2
         x: 1152
@@ -404,9 +1110,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_10
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_10
       rect:
         serializedVersion: 2
         x: 1280
@@ -414,9 +1131,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_11
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_11
       rect:
         serializedVersion: 2
         x: 1408
@@ -424,9 +1152,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_12
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_12
       rect:
         serializedVersion: 2
         x: 1536
@@ -434,9 +1173,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_13
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_13
       rect:
         serializedVersion: 2
         x: 1664
@@ -444,9 +1194,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_14
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_14
       rect:
         serializedVersion: 2
         x: 1792
@@ -454,9 +1215,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_15
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_15
       rect:
         serializedVersion: 2
         x: 1920
@@ -464,9 +1236,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_16
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_16
       rect:
         serializedVersion: 2
         x: 0
@@ -474,9 +1257,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_17
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_17
       rect:
         serializedVersion: 2
         x: 128
@@ -484,9 +1278,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_18
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_18
       rect:
         serializedVersion: 2
         x: 256
@@ -494,9 +1299,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_19
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_19
       rect:
         serializedVersion: 2
         x: 384
@@ -504,9 +1320,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_20
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_20
       rect:
         serializedVersion: 2
         x: 512
@@ -514,9 +1341,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_21
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_21
       rect:
         serializedVersion: 2
         x: 640
@@ -524,9 +1362,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_22
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_22
       rect:
         serializedVersion: 2
         x: 768
@@ -534,9 +1383,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_23
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_23
       rect:
         serializedVersion: 2
         x: 896
@@ -544,9 +1404,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_24
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_24
       rect:
         serializedVersion: 2
         x: 1024
@@ -554,9 +1425,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_25
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_25
       rect:
         serializedVersion: 2
         x: 1152
@@ -564,9 +1446,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_26
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_26
       rect:
         serializedVersion: 2
         x: 1280
@@ -574,9 +1467,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_27
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_27
       rect:
         serializedVersion: 2
         x: 1408
@@ -584,9 +1488,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_28
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_28
       rect:
         serializedVersion: 2
         x: 1536
@@ -594,9 +1509,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_29
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_29
       rect:
         serializedVersion: 2
         x: 1664
@@ -604,9 +1530,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_30
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_30
       rect:
         serializedVersion: 2
         x: 1792
@@ -614,9 +1551,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_31
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_31
       rect:
         serializedVersion: 2
         x: 1920
@@ -624,9 +1572,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_0
       rect:
         serializedVersion: 2
         x: 0
@@ -634,9 +1593,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_1
       rect:
         serializedVersion: 2
         x: 128
@@ -644,9 +1614,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_2
       rect:
         serializedVersion: 2
         x: 256
@@ -654,9 +1635,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_3
       rect:
         serializedVersion: 2
         x: 384
@@ -664,9 +1656,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_4
       rect:
         serializedVersion: 2
         x: 512
@@ -674,9 +1677,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_5
       rect:
         serializedVersion: 2
         x: 640
@@ -684,9 +1698,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_6
       rect:
         serializedVersion: 2
         x: 768
@@ -694,9 +1719,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_7
       rect:
         serializedVersion: 2
         x: 896
@@ -704,9 +1740,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_8
       rect:
         serializedVersion: 2
         x: 1024
@@ -714,9 +1761,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_9
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_9
       rect:
         serializedVersion: 2
         x: 1152
@@ -724,9 +1782,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_10
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_10
       rect:
         serializedVersion: 2
         x: 1280
@@ -734,9 +1803,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_11
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_11
       rect:
         serializedVersion: 2
         x: 1408
@@ -744,9 +1824,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_12
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_12
       rect:
         serializedVersion: 2
         x: 1536
@@ -754,9 +1845,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_13
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_13
       rect:
         serializedVersion: 2
         x: 1664
@@ -764,9 +1866,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_14
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_14
       rect:
         serializedVersion: 2
         x: 1792
@@ -774,9 +1887,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_eff_Attack_01_G_15
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_eff_Attack_01_G_15
       rect:
         serializedVersion: 2
         x: 1920
@@ -784,9 +1908,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_48
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_48
       rect:
         serializedVersion: 2
         x: 0
@@ -794,9 +1929,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_49
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_49
       rect:
         serializedVersion: 2
         x: 128
@@ -804,9 +1950,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_50
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_50
       rect:
         serializedVersion: 2
         x: 256
@@ -814,9 +1971,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_51
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_51
       rect:
         serializedVersion: 2
         x: 384
@@ -824,9 +1992,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_52
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_52
       rect:
         serializedVersion: 2
         x: 512
@@ -834,9 +2013,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_53
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_53
       rect:
         serializedVersion: 2
         x: 640
@@ -844,9 +2034,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_54
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_54
       rect:
         serializedVersion: 2
         x: 768
@@ -854,9 +2055,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_55
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_55
       rect:
         serializedVersion: 2
         x: 896
@@ -864,9 +2076,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_56
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_56
       rect:
         serializedVersion: 2
         x: 1024
@@ -874,9 +2097,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_57
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_57
       rect:
         serializedVersion: 2
         x: 1152
@@ -884,9 +2118,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_58
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_58
       rect:
         serializedVersion: 2
         x: 1280
@@ -894,9 +2139,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_59
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_59
       rect:
         serializedVersion: 2
         x: 1408
@@ -904,9 +2160,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_60
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_60
       rect:
         serializedVersion: 2
         x: 1536
@@ -914,9 +2181,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_61
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_61
       rect:
         serializedVersion: 2
         x: 1664
@@ -924,9 +2202,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_62
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_62
       rect:
         serializedVersion: 2
         x: 1792
@@ -934,9 +2223,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_63
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_63
       rect:
         serializedVersion: 2
         x: 1920
@@ -944,9 +2244,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_80
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_80
       rect:
         serializedVersion: 2
         x: 0
@@ -954,9 +2265,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_81
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_81
       rect:
         serializedVersion: 2
         x: 256
@@ -964,9 +2286,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_82
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_82
       rect:
         serializedVersion: 2
         x: 512
@@ -974,9 +2307,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_83
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_83
       rect:
         serializedVersion: 2
         x: 768
@@ -984,9 +2328,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_84
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_84
       rect:
         serializedVersion: 2
         x: 1024
@@ -994,9 +2349,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_85
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_85
       rect:
         serializedVersion: 2
         x: 1280
@@ -1004,9 +2370,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_86
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_86
       rect:
         serializedVersion: 2
         x: 1536
@@ -1014,9 +2391,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_87
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_87
       rect:
         serializedVersion: 2
         x: 1792
@@ -1024,9 +2412,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_88
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02505410000000000800000000000000
+      internalID: 21300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_88
       rect:
         serializedVersion: 2
         x: 0
@@ -1034,9 +2433,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_89
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22505410000000000800000000000000
+      internalID: 21300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_89
       rect:
         serializedVersion: 2
         x: 256
@@ -1044,9 +2454,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_90
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42505410000000000800000000000000
+      internalID: 21300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_90
       rect:
         serializedVersion: 2
         x: 512
@@ -1054,9 +2475,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_91
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_91
       rect:
         serializedVersion: 2
         x: 768
@@ -1064,9 +2496,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_92
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_92
       rect:
         serializedVersion: 2
         x: 1024
@@ -1074,9 +2517,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_93
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_93
       rect:
         serializedVersion: 2
         x: 1280
@@ -1084,9 +2538,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_94
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_94
       rect:
         serializedVersion: 2
         x: 1536
@@ -1094,9 +2559,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_95
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_95
       rect:
         serializedVersion: 2
         x: 1792
@@ -1104,9 +2580,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_128
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_128
       rect:
         serializedVersion: 2
         x: 0
@@ -1114,9 +2601,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_129
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_129
       rect:
         serializedVersion: 2
         x: 128
@@ -1124,9 +2622,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_130
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_130
       rect:
         serializedVersion: 2
         x: 256
@@ -1134,9 +2643,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_131
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_131
       rect:
         serializedVersion: 2
         x: 384
@@ -1144,9 +2664,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_132
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_132
       rect:
         serializedVersion: 2
         x: 512
@@ -1154,9 +2685,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_133
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_133
       rect:
         serializedVersion: 2
         x: 640
@@ -1164,9 +2706,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_134
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_134
       rect:
         serializedVersion: 2
         x: 768
@@ -1174,9 +2727,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_135
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_135
       rect:
         serializedVersion: 2
         x: 896
@@ -1184,9 +2748,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_136
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_136
       rect:
         serializedVersion: 2
         x: 1024
@@ -1194,9 +2769,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_137
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_137
       rect:
         serializedVersion: 2
         x: 1152
@@ -1204,9 +2790,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_138
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_138
       rect:
         serializedVersion: 2
         x: 1280
@@ -1214,9 +2811,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_139
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_139
       rect:
         serializedVersion: 2
         x: 1408
@@ -1224,9 +2832,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_140
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_140
       rect:
         serializedVersion: 2
         x: 1536
@@ -1234,9 +2853,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_141
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_141
       rect:
         serializedVersion: 2
         x: 1664
@@ -1244,9 +2874,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_142
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_142
       rect:
         serializedVersion: 2
         x: 1792
@@ -1254,9 +2895,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_143
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_143
       rect:
         serializedVersion: 2
         x: 1920
@@ -1264,9 +2916,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_144
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_144
       rect:
         serializedVersion: 2
         x: 0
@@ -1274,9 +2937,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_145
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_145
       rect:
         serializedVersion: 2
         x: 128
@@ -1284,9 +2958,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_146
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_146
       rect:
         serializedVersion: 2
         x: 256
@@ -1294,9 +2979,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_147
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_147
       rect:
         serializedVersion: 2
         x: 384
@@ -1304,9 +3000,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_148
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_148
       rect:
         serializedVersion: 2
         x: 512
@@ -1314,9 +3021,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_149
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_149
       rect:
         serializedVersion: 2
         x: 640
@@ -1324,9 +3042,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_150
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_150
       rect:
         serializedVersion: 2
         x: 768
@@ -1334,9 +3063,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_151
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_151
       rect:
         serializedVersion: 2
         x: 896
@@ -1344,9 +3084,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_152
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_152
       rect:
         serializedVersion: 2
         x: 1024
@@ -1354,9 +3105,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_153
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_153
       rect:
         serializedVersion: 2
         x: 1152
@@ -1364,9 +3126,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_154
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_154
       rect:
         serializedVersion: 2
         x: 1280
@@ -1374,9 +3147,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_155
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_155
       rect:
         serializedVersion: 2
         x: 1408
@@ -1384,9 +3168,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_156
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_156
       rect:
         serializedVersion: 2
         x: 1536
@@ -1394,9 +3189,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_157
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_157
       rect:
         serializedVersion: 2
         x: 1664
@@ -1404,9 +3210,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_158
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_158
       rect:
         serializedVersion: 2
         x: 1792
@@ -1414,9 +3231,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_159
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_159
       rect:
         serializedVersion: 2
         x: 1920
@@ -1424,9 +3252,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_160
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_160
       rect:
         serializedVersion: 2
         x: 0
@@ -1434,9 +3273,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_161
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_161
       rect:
         serializedVersion: 2
         x: 256
@@ -1444,9 +3294,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_162
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_162
       rect:
         serializedVersion: 2
         x: 512
@@ -1454,9 +3315,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_163
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_163
       rect:
         serializedVersion: 2
         x: 768
@@ -1464,9 +3336,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_164
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_164
       rect:
         serializedVersion: 2
         x: 1024
@@ -1474,9 +3357,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_165
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_165
       rect:
         serializedVersion: 2
         x: 1280
@@ -1484,9 +3378,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_166
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_166
       rect:
         serializedVersion: 2
         x: 1536
@@ -1494,9 +3399,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_167
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_167
       rect:
         serializedVersion: 2
         x: 1792
@@ -1504,9 +3420,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_168
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_168
       rect:
         serializedVersion: 2
         x: 0
@@ -1514,9 +3441,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_169
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_169
       rect:
         serializedVersion: 2
         x: 259
@@ -1524,9 +3462,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_170
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_170
       rect:
         serializedVersion: 2
         x: 512
@@ -1534,9 +3483,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_171
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_171
       rect:
         serializedVersion: 2
         x: 768
@@ -1544,9 +3504,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_172
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_172
       rect:
         serializedVersion: 2
         x: 1024
@@ -1554,9 +3525,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_173
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_173
       rect:
         serializedVersion: 2
         x: 1280
@@ -1564,9 +3546,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_174
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_174
       rect:
         serializedVersion: 2
         x: 1536
@@ -1574,9 +3567,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_175
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_175
       rect:
         serializedVersion: 2
         x: 1792
@@ -1584,9 +3588,20 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_224
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_224
       rect:
         serializedVersion: 2
         x: 0
@@ -1594,9 +3609,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_225
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e405410000000000800000000000000
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_225
       rect:
         serializedVersion: 2
         x: 128
@@ -1604,9 +3630,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_226
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e405410000000000800000000000000
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_226
       rect:
         serializedVersion: 2
         x: 256
@@ -1614,9 +3651,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_227
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e405410000000000800000000000000
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_227
       rect:
         serializedVersion: 2
         x: 384
@@ -1624,9 +3672,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_228
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e405410000000000800000000000000
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_228
       rect:
         serializedVersion: 2
         x: 512
@@ -1634,9 +3693,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_229
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e405410000000000800000000000000
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_229
       rect:
         serializedVersion: 2
         x: 640
@@ -1644,9 +3714,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_230
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae405410000000000800000000000000
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_230
       rect:
         serializedVersion: 2
         x: 768
@@ -1654,9 +3735,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_231
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce405410000000000800000000000000
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_231
       rect:
         serializedVersion: 2
         x: 896
@@ -1664,9 +3756,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_232
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee405410000000000800000000000000
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_232
       rect:
         serializedVersion: 2
         x: 1024
@@ -1674,9 +3777,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_233
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f405410000000000800000000000000
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_233
       rect:
         serializedVersion: 2
         x: 1152
@@ -1684,9 +3798,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_234
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f405410000000000800000000000000
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_234
       rect:
         serializedVersion: 2
         x: 1280
@@ -1694,9 +3819,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_235
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f405410000000000800000000000000
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_235
       rect:
         serializedVersion: 2
         x: 1408
@@ -1704,9 +3840,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_236
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f405410000000000800000000000000
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_236
       rect:
         serializedVersion: 2
         x: 1536
@@ -1714,9 +3861,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_237
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f405410000000000800000000000000
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_237
       rect:
         serializedVersion: 2
         x: 1664
@@ -1724,9 +3882,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_238
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af405410000000000800000000000000
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_238
       rect:
         serializedVersion: 2
         x: 1792
@@ -1734,9 +3903,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_239
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf405410000000000800000000000000
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_239
       rect:
         serializedVersion: 2
         x: 1920
@@ -1744,9 +3924,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_240
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef405410000000000800000000000000
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_240
       rect:
         serializedVersion: 2
         x: 0
@@ -1754,9 +3945,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_241
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00505410000000000800000000000000
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_241
       rect:
         serializedVersion: 2
         x: 128
@@ -1764,9 +3966,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_242
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20505410000000000800000000000000
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_242
       rect:
         serializedVersion: 2
         x: 256
@@ -1774,9 +3987,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_243
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40505410000000000800000000000000
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_243
       rect:
         serializedVersion: 2
         x: 384
@@ -1784,9 +4008,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_244
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60505410000000000800000000000000
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_244
       rect:
         serializedVersion: 2
         x: 512
@@ -1794,9 +4029,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_245
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80505410000000000800000000000000
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_245
       rect:
         serializedVersion: 2
         x: 640
@@ -1804,9 +4050,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_246
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0505410000000000800000000000000
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_246
       rect:
         serializedVersion: 2
         x: 768
@@ -1814,9 +4071,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_247
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0505410000000000800000000000000
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_247
       rect:
         serializedVersion: 2
         x: 896
@@ -1824,9 +4092,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_248
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0505410000000000800000000000000
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_248
       rect:
         serializedVersion: 2
         x: 1024
@@ -1834,9 +4113,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_249
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01505410000000000800000000000000
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_249
       rect:
         serializedVersion: 2
         x: 1152
@@ -1844,9 +4134,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_250
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21505410000000000800000000000000
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_250
       rect:
         serializedVersion: 2
         x: 1280
@@ -1854,9 +4155,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_251
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41505410000000000800000000000000
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_251
       rect:
         serializedVersion: 2
         x: 1408
@@ -1864,9 +4176,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_252
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61505410000000000800000000000000
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_252
       rect:
         serializedVersion: 2
         x: 1536
@@ -1874,9 +4197,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_253
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81505410000000000800000000000000
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_253
       rect:
         serializedVersion: 2
         x: 1664
@@ -1884,9 +4218,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_254
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1505410000000000800000000000000
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_254
       rect:
         serializedVersion: 2
         x: 1792
@@ -1894,9 +4239,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: SD_Effect_sequence_03_255
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1505410000000000800000000000000
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SD_Effect_sequence_03_255
       rect:
         serializedVersion: 2
         x: 1920
@@ -1904,9 +4260,191 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-  spritePackingTag: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1505410000000000800000000000000
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SD_Effect_sequence_03_0: 21300000
+      SD_Effect_sequence_03_1: 21300002
+      SD_Effect_sequence_03_10: 21300020
+      SD_Effect_sequence_03_11: 21300022
+      SD_Effect_sequence_03_12: 21300024
+      SD_Effect_sequence_03_128: 21300256
+      SD_Effect_sequence_03_129: 21300258
+      SD_Effect_sequence_03_13: 21300026
+      SD_Effect_sequence_03_130: 21300260
+      SD_Effect_sequence_03_131: 21300262
+      SD_Effect_sequence_03_132: 21300264
+      SD_Effect_sequence_03_133: 21300266
+      SD_Effect_sequence_03_134: 21300268
+      SD_Effect_sequence_03_135: 21300270
+      SD_Effect_sequence_03_136: 21300272
+      SD_Effect_sequence_03_137: 21300274
+      SD_Effect_sequence_03_138: 21300276
+      SD_Effect_sequence_03_139: 21300278
+      SD_Effect_sequence_03_14: 21300028
+      SD_Effect_sequence_03_140: 21300280
+      SD_Effect_sequence_03_141: 21300282
+      SD_Effect_sequence_03_142: 21300284
+      SD_Effect_sequence_03_143: 21300286
+      SD_Effect_sequence_03_144: 21300288
+      SD_Effect_sequence_03_145: 21300290
+      SD_Effect_sequence_03_146: 21300292
+      SD_Effect_sequence_03_147: 21300294
+      SD_Effect_sequence_03_148: 21300296
+      SD_Effect_sequence_03_149: 21300298
+      SD_Effect_sequence_03_15: 21300030
+      SD_Effect_sequence_03_150: 21300300
+      SD_Effect_sequence_03_151: 21300302
+      SD_Effect_sequence_03_152: 21300304
+      SD_Effect_sequence_03_153: 21300306
+      SD_Effect_sequence_03_154: 21300308
+      SD_Effect_sequence_03_155: 21300310
+      SD_Effect_sequence_03_156: 21300312
+      SD_Effect_sequence_03_157: 21300314
+      SD_Effect_sequence_03_158: 21300316
+      SD_Effect_sequence_03_159: 21300318
+      SD_Effect_sequence_03_16: 21300032
+      SD_Effect_sequence_03_160: 21300320
+      SD_Effect_sequence_03_161: 21300322
+      SD_Effect_sequence_03_162: 21300324
+      SD_Effect_sequence_03_163: 21300326
+      SD_Effect_sequence_03_164: 21300328
+      SD_Effect_sequence_03_165: 21300330
+      SD_Effect_sequence_03_166: 21300332
+      SD_Effect_sequence_03_167: 21300334
+      SD_Effect_sequence_03_168: 21300336
+      SD_Effect_sequence_03_169: 21300338
+      SD_Effect_sequence_03_17: 21300034
+      SD_Effect_sequence_03_170: 21300340
+      SD_Effect_sequence_03_171: 21300342
+      SD_Effect_sequence_03_172: 21300344
+      SD_Effect_sequence_03_173: 21300346
+      SD_Effect_sequence_03_174: 21300348
+      SD_Effect_sequence_03_175: 21300350
+      SD_Effect_sequence_03_18: 21300036
+      SD_Effect_sequence_03_19: 21300038
+      SD_Effect_sequence_03_2: 21300004
+      SD_Effect_sequence_03_20: 21300040
+      SD_Effect_sequence_03_21: 21300042
+      SD_Effect_sequence_03_22: 21300044
+      SD_Effect_sequence_03_224: 21300448
+      SD_Effect_sequence_03_225: 21300450
+      SD_Effect_sequence_03_226: 21300452
+      SD_Effect_sequence_03_227: 21300454
+      SD_Effect_sequence_03_228: 21300456
+      SD_Effect_sequence_03_229: 21300458
+      SD_Effect_sequence_03_23: 21300046
+      SD_Effect_sequence_03_230: 21300460
+      SD_Effect_sequence_03_231: 21300462
+      SD_Effect_sequence_03_232: 21300464
+      SD_Effect_sequence_03_233: 21300466
+      SD_Effect_sequence_03_234: 21300468
+      SD_Effect_sequence_03_235: 21300470
+      SD_Effect_sequence_03_236: 21300472
+      SD_Effect_sequence_03_237: 21300474
+      SD_Effect_sequence_03_238: 21300476
+      SD_Effect_sequence_03_239: 21300478
+      SD_Effect_sequence_03_24: 21300048
+      SD_Effect_sequence_03_240: 21300480
+      SD_Effect_sequence_03_241: 21300482
+      SD_Effect_sequence_03_242: 21300484
+      SD_Effect_sequence_03_243: 21300486
+      SD_Effect_sequence_03_244: 21300488
+      SD_Effect_sequence_03_245: 21300490
+      SD_Effect_sequence_03_246: 21300492
+      SD_Effect_sequence_03_247: 21300494
+      SD_Effect_sequence_03_248: 21300496
+      SD_Effect_sequence_03_249: 21300498
+      SD_Effect_sequence_03_25: 21300050
+      SD_Effect_sequence_03_250: 21300500
+      SD_Effect_sequence_03_251: 21300502
+      SD_Effect_sequence_03_252: 21300504
+      SD_Effect_sequence_03_253: 21300506
+      SD_Effect_sequence_03_254: 21300508
+      SD_Effect_sequence_03_255: 21300510
+      SD_Effect_sequence_03_26: 21300052
+      SD_Effect_sequence_03_27: 21300054
+      SD_Effect_sequence_03_28: 21300056
+      SD_Effect_sequence_03_29: 21300058
+      SD_Effect_sequence_03_3: 21300006
+      SD_Effect_sequence_03_30: 21300060
+      SD_Effect_sequence_03_31: 21300062
+      SD_Effect_sequence_03_4: 21300008
+      SD_Effect_sequence_03_48: 21300096
+      SD_Effect_sequence_03_49: 21300098
+      SD_Effect_sequence_03_5: 21300010
+      SD_Effect_sequence_03_50: 21300100
+      SD_Effect_sequence_03_51: 21300102
+      SD_Effect_sequence_03_52: 21300104
+      SD_Effect_sequence_03_53: 21300106
+      SD_Effect_sequence_03_54: 21300108
+      SD_Effect_sequence_03_55: 21300110
+      SD_Effect_sequence_03_56: 21300112
+      SD_Effect_sequence_03_57: 21300114
+      SD_Effect_sequence_03_58: 21300116
+      SD_Effect_sequence_03_59: 21300118
+      SD_Effect_sequence_03_6: 21300012
+      SD_Effect_sequence_03_60: 21300120
+      SD_Effect_sequence_03_61: 21300122
+      SD_Effect_sequence_03_62: 21300124
+      SD_Effect_sequence_03_63: 21300126
+      SD_Effect_sequence_03_7: 21300014
+      SD_Effect_sequence_03_8: 21300016
+      SD_Effect_sequence_03_80: 21300160
+      SD_Effect_sequence_03_81: 21300162
+      SD_Effect_sequence_03_82: 21300164
+      SD_Effect_sequence_03_83: 21300166
+      SD_Effect_sequence_03_84: 21300224
+      SD_Effect_sequence_03_85: 21300178
+      SD_Effect_sequence_03_86: 21300172
+      SD_Effect_sequence_03_87: 21300512
+      SD_Effect_sequence_03_88: 21300514
+      SD_Effect_sequence_03_89: 21300516
+      SD_Effect_sequence_03_9: 21300018
+      SD_Effect_sequence_03_90: 21300180
+      SD_Effect_sequence_03_91: 21300182
+      SD_Effect_sequence_03_92: 21300184
+      SD_Effect_sequence_03_93: 21300186
+      SD_Effect_sequence_03_94: 21300188
+      SD_Effect_sequence_03_95: 21300190
+      SD_eff_Attack_01_G_0: 21300064
+      SD_eff_Attack_01_G_1: 21300066
+      SD_eff_Attack_01_G_10: 21300084
+      SD_eff_Attack_01_G_11: 21300086
+      SD_eff_Attack_01_G_12: 21300088
+      SD_eff_Attack_01_G_13: 21300090
+      SD_eff_Attack_01_G_14: 21300092
+      SD_eff_Attack_01_G_15: 21300094
+      SD_eff_Attack_01_G_2: 21300068
+      SD_eff_Attack_01_G_3: 21300070
+      SD_eff_Attack_01_G_4: 21300072
+      SD_eff_Attack_01_G_5: 21300074
+      SD_eff_Attack_01_G_6: 21300076
+      SD_eff_Attack_01_G_7: 21300078
+      SD_eff_Attack_01_G_8: 21300080
+      SD_eff_Attack_01_G_9: 21300082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 1
   userData: 
   assetBundleName: 
   assetBundleVariant: 
